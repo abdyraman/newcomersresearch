@@ -1,4 +1,4 @@
-This zipped file contains the following files:
+﻿This zipped file contains the following files:
 
 *_meta.txt – contains the metadata for the data file, including general information, geography notes, definitions and footnotes.
 
@@ -36,8 +36,3 @@ C11_RATE_MEN+
 SYMBOL
 C12_RATE_WOMEN+
 SYMBOL
-
-
-
-
-
